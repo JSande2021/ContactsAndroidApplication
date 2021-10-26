@@ -25,3 +25,10 @@ Contacts Application created in Android Studio
 <hr>
 
 ![Phone Call](In%20Phone%20Call.png)
+
+
+**Wireframe Diagram for Contacts Application**
+
+<hr>
+
+![Wireframe Diagram](Wireframe.png)
