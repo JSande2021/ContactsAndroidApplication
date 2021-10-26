@@ -12,7 +12,13 @@ Contacts Application created in Android Studio
 
 <hr>
 
-![Show Case of Actions](ShowCaseOfActions.png)
+**The Contacts Application in the Business Contacts Screen**
+
+![Business Contact Screen](BusinessContacts.png)
+
+<hr>
+
+![Personal Contact Screen](ShowCaseOfActions.png)
 
 **Phone Call Show Case in Contacts Application**
 
