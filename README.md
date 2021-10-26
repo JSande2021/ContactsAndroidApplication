@@ -8,8 +8,6 @@ Contacts Application created in Android Studio
 
 ![Main Actiity](MainActivityAtLaunch.png)
 
-**The Contacts Application in the Personal Contacts Screen**
-
 <hr>
 
 **The Contacts Application in the Business Contacts Screen**
@@ -17,6 +15,8 @@ Contacts Application created in Android Studio
 ![Business Contact Screen](BusinessContacts.png)
 
 <hr>
+
+**The Contacts Application in the Personal Contacts Screen**
 
 ![Personal Contact Screen](ShowCaseOfActions.png)
 
